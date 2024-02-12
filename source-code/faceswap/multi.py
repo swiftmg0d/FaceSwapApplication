@@ -198,7 +198,7 @@ def swap(number):
     print(f"Finished in {time.time() - start} seconds")
 
 if __name__ == '__main__':
-    print("Внеси број на слики:")
+    print("Insert number of pair images to swap:")
     print(swap(int(input())))
 
 
