@@ -1,3 +1,3 @@
 ## Simple FaceSwap application
 
-<iframe src="https://giphy.com/embed/2eAnxaZ92Ueg0yeRxg" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2eAnxaZ92Ueg0yeRxg">via GIPHY</a></p>
+<img alt="a" width="500" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3dWNkYnVsNnoyeTY0czd2bm1hcnVkanRkYjBtdnF2NHo3enkyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eAnxaZ92Ueg0yeRxg/giphy.gif">
