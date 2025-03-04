@@ -1,8 +1,9 @@
 # FaceSwap - A Face Swapping Application
 
-<div style="text-align: center;">
-    <img alt="FaceSwap Demo" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3dWNkYnVsNnoyeTY0czd2bm1hcnVkanRkYjBtdnF2NHo3enkyOSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/2eAnxaZ92Ueg0yeRxg/giphy.gif" style="display: block; margin: 0 auto;">
-</div>
+<p align="center">
+  <img alt="FaceSwap Demo" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ3dWNkYnVsNnoyeTY0czd2bm1hcnVkanRkYjBtdnF2NHo3enkyOSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/2eAnxaZ92Ueg0yeRxg/giphy.gif">
+</p>
+
 
 
 ## Table of Contents
